@@ -1,0 +1,37 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+#logo-container img {
+  width: 100px;
+  position: relative;
+}
+#logo-footer img {
+  width: 150px;
+}
+#logo img{
+  width: 700px;
+}
+nav ul a {
+  color: #8f8d07;
+}
+
+h1 {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #d3c506;
+}
+h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #d3c506;
+}
+
+.col img {
+  width: 80%;
+}
+.yellow {
+  background-color:#fcf806;
+}
+
